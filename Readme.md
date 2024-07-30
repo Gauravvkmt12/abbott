@@ -1,4 +1,4 @@
-This project is developed by the php and in the product page you see the product details that the admin is add from the admin portal.
+This project is clone of Abbott india and developed by the php.
 
 To setup this project in your system clone the git repository "https://github.com/Gauravvkmt12/abbott.git" using this link and the commond is 
 
