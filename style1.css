@@ -1,0 +1,8 @@
+.brand-logo {font-size: 1.8rem;font-weight: bold;font-family: 'Montserrat', sans-serif;color: #fff;}.nav-link {font-size: 1rem;font-family: 'Roboto', sans-serif; color: #fff;}.nav-link:hover{color:#000;}.dropdown-menu .dropdown-item {font-size: 0.9rem;}.navbar-toggler {font-size: 1.2rem;}.dropdown-toggle:focus{color: #dc3545;}@media (max-width: 992px) {.brand-logo {font-size: 1.6rem;}.nav-link {font-size: 1.1rem;}}    
+.button-submit {background-color: #151717;color: #fff;border: none;padding: 10px 20px;border-radius: 5px;cursor: pointer;width: 100%;font-size: 15px;font-weight: 500;border-radius: 10px;transition: 0.5s ease;    }
+.button-submit:hover {background-color: #c82333;}
+.inputForm {display: flex;align-items: center;gap: 10px;border: 1.5px solid #ecedec;padding: 10px;border-radius: 5px;}
+.inputForm input {border: none;outline: none;background: transparent;width: 100%;}
+.inputForm svg {flex-shrink: 0;}
+.fa-bars{color: #fff;}
+.fa-bars:focus{box-shadow: none;}
